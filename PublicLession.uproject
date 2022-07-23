@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F765E631-49C0-D813-2B69-EDB56FD0E242}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PublicLession",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
